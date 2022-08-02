@@ -2,61 +2,41 @@
 
 # Project Name
 
-> Description the project.
-
+> Build a porfolio version using boostrap.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS
+- Visual Studio Code
+- Git
+- Github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](not available)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+https://github.com/d4nQw3rty/bootstrap
 
 
 ## Authors
 
-👤 **Author1**
+- GitHub: [@d4nQw3rty](https://github.com/d4nQw3rty)
+- Twitter: [@Danys_linares](https://twitter.com/Danys_Linares)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/danys-linares-6a328b238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnkyI5IMjTzSg4PVJIZh%2BMw%3D%3D)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## 📝 License
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+This project is [MIT](./MIT.md) licensed.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/d4nQw3rty/Danys-Portfolio/issues).
 
 ## Show your support
 
@@ -64,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse for template
 
 ## 📝 License
 
